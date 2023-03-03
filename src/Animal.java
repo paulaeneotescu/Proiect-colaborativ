@@ -1,3 +1,5 @@
 public class Animal {
-    public void mananca(){}
+    public void mananca(){
+        System.out.println("manaca");
+    }
 }
